@@ -1,0 +1,13 @@
+{
+  "name": "simpleMongooseTest",
+  "version": "0.0.0",
+  "description": "simpleMongooseTest",
+  "main": "app.js",
+  "author": {
+    "name": "darryl",
+    "email": ""
+  },
+  "dependencies": {
+    "mongoose": "^4.0.5"
+  }
+}
